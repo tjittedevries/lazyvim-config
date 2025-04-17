@@ -1,9 +1,7 @@
 {
-  "extras": [
-    "lazyvim.plugins.extras.linting.eslint"
-  ],
-  "news": {
-    "NEWS.md": "7107"
-  },
-  "version": 7
+	"install_version": 7,
+	"news": {
+		"NEWS.md": "10960"
+	},
+	"version": 8
 }
