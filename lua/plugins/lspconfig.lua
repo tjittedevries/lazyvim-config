@@ -11,6 +11,14 @@ return {
             useFlatConfig = true,
           },
         },
+        stylelint_lsp = {
+          settings = {
+            stylelintplus = {
+              autoFixOnFormat = true,
+              autoFixOnSave = true,
+            },
+          },
+        },
       },
     },
   },
